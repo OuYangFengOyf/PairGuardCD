@@ -7,9 +7,7 @@
 <img src="https://img.shields.io/badge/Inference-Student%20Only-orange">
 </div>
 :page_with_curl: Overview
-PairGuard-CD: Reliable Offline Supervision and
-Relation-Guided Lightweight Change Detection with Limited
-Labels
+PairGuard-CD: Reliable Offline Supervision and Relation-Guided Lightweight Change Detection with Limited Labels
 
 :golf: Getting Started
 1. Environment

@@ -7,20 +7,10 @@
 <img src="https://img.shields.io/badge/Inference-Student%20Only-orange">
 </div>
 :page_with_curl: Overview
-PairGuard-CD is a lightweight remote sensing change detection framework for limited-label settings and cross-temporal geometric inconsistency.
-The offline teacher combines:
-bidirectional out-of-fold change seeds;
-C2F-SCPT stable-context prompt transport;
-SAM2.1 object proposal generation;
-NARP-US null-aware proposal verification;
-DINOv2 coarse-to-fine offset-null relation supervision.
-The deployable student contains:
-MobileNetV3-Small Siamese backbone;
-Exchange-Invariant Fusion;
-directional coarse/fine relation heads;
-Relation-Guided Decoder;
-Relation-conditioned Typed Error Correction.
-All teacher-side components are removed during inference.
+PairGuard-CD: Reliable Offline Supervision and
+Relation-Guided Lightweight Change Detection with Limited
+Labels
+
 :golf: Getting Started
 1. Environment
 ```bash

@@ -6,8 +6,7 @@
 <img src="https://img.shields.io/badge/Task-Remote%20Sensing%20Change%20Detection-green">
 <img src="https://img.shields.io/badge/Inference-Student%20Only-orange">
 </div>
-:page_with_curl: Overview
-PairGuard-CD: Reliable Offline Supervision and Relation-Guided Lightweight Change Detection with Limited Labels
+
 
 :golf: Getting Started
 1. Environment
